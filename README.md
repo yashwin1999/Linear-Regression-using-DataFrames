@@ -206,7 +206,7 @@ From the included 3-row test dataset, the notebook should print something like:
 
 ## Author & License
 
-Created by **Your Name**.  
+Created by Yashwin Bangalore Subramani.  
 License: choose one (e.g., MIT) — add `LICENSE` file to repository if you want to open-source it.
 
 ---
